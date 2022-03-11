@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'debug_toolbar',
     'demo.apps.users.apps.UsersConfig',
     'demo.apps.CoffeeShop.apps.CoffeeshopConfig',
+    'django.forms'
 ]
 
 MIDDLEWARE = [
@@ -64,6 +65,8 @@ ROOT_URLCONF = 'config.urls'
 
 ADMIN_URL = os.getenv('ADMIN_URL')
 LOGIN_URL = os.getenv('LOGIN_URL')
+
+FORM_RENDERER = 'django.forms.renderers.TemplatesSetting'
 
 TEMPLATES = [
     {

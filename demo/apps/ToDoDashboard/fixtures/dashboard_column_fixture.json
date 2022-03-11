@@ -1,0 +1,19 @@
+[{
+    "model": "ToDoDashboard.dashboardcolumn",
+    "pk": 1,
+    "fields": {
+        "dashboard": 1,
+        "title": "Prioritized",
+        "created_at": "2022-02-16 10:43:18.423063",
+        "updated_at": "2022-02-16 10:43:18.423063"
+    }
+},{
+    "model": "ToDoDashboard.dashboardcolumn",
+    "pk": 2,
+    "fields": {
+        "dashboard": 1,
+        "title": "Monday",
+        "created_at": "2022-02-16 10:43:18.423063",
+        "updated_at": "2022-02-16 10:43:18.423063"
+}
+}]

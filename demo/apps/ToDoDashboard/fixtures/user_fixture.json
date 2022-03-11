@@ -1,0 +1,21 @@
+[{
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+        "username": "dolorence",
+        "email": "dolorence@company.com",
+        "password": "pbkdf2_sha256$320000$KAnBT2SYdLTW0XX6w8XIPN$4HLMFLhqOxl0Z4VHnAjjTwU5N2PLDWsIkvlPA0EWuFw=",
+        "is_staff": true,
+        "is_superuser": false
+    }
+},{    
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+        "username": "manuel",
+        "email": "manuel@company.com",
+        "password": "pbkdf2_sha256$320000$KAnBT2SYdLTW0XX6w8XIPN$4HLMFLhqOxl0Z4VHnAjjTwU5N2PLDWsIkvlPA0EWuFw=",
+        "is_staff": true,
+        "is_superuser": true
+    }
+}]

@@ -1,0 +1,11 @@
+[{
+    "model": "ToDoDashboard.member",
+    "pk": 1,
+    "fields": {
+        "user": 1,
+        "avatar": "photos/profile-user-avatar.png",
+        "department": "Management",
+        "created_at": "2022-02-16 10:43:18.423063",
+        "updated_at": "2022-02-16 10:43:18.423063"
+    }
+}]

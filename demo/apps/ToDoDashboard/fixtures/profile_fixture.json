@@ -1,0 +1,23 @@
+[{
+    "model": "users.profile",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "avatar": "photos/profile-user-avatar.png",
+        "zipcode": "+256",
+        "phone": "700020002",
+        "bio": "Here I am Madam.",
+        "address": "Rubaga"
+    }
+},{    
+    "model": "users.profile",
+    "pk": 2,
+    "fields": {
+        "user": 1,
+        "avatar": "photos/profile-user-avatar.png",
+        "zipcode": "+256",
+        "phone": "700010001",
+        "bio": "Here I am Sir.",
+        "address": "Rubaga"
+    }
+}]
